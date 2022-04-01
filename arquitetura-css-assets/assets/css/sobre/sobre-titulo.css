@@ -1,0 +1,5 @@
+.sobre__titulo{
+    color: var(--cor-vinhoBordo);
+    font-family: var(--fonte-cursiva);
+    font-size: 3.1875rem;
+}

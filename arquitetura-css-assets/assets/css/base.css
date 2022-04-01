@@ -1,0 +1,10 @@
+:root{
+    --tamanho-cabecalho: 72px;
+    --fonte-cursiva: Pacifico, cursive;
+    --cor-vinhoBordo: #8D0606;
+    --cor-cinza: #595959;
+    --cor-cinzaClaro: #e5e5e5;
+    --cor-brancoLeve: #FDFDFD;
+    --cor-vinhoEscuro: #620404;
+    font-size: 14px;
+}
